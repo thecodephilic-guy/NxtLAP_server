@@ -1,3 +1,0 @@
-package main
-
-const F1_API_URL = "https://api.openf1.org/v1"
